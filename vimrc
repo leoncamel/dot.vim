@@ -396,6 +396,10 @@
         vmap ,xc !boxes -d c-cmt -r<CR>
         nmap ,xc !!boxes -d c-cmt -r<CR>
     " }
+    " csindent Settings {
+        let g:csindent_ini = $HOME . ".vim/etc/vim_csindent.ini"
+        let g:csindent_dir = $HOME . ".vim/etc/csindent/"
+    " }
 " }
 
 " Mappings {

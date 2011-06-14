@@ -37,3 +37,6 @@
 [submodule "bundle/vim-markdown.git"]
 	path = bundle/vim-markdown.git
 	url = git://github.com/plasticboy/vim-markdown.git
+[submodule "bundle/csindent.vim.git"]
+	path = bundle/csindent.vim.git
+	url = git://github.com/vim-scripts/csindent.vim.git
