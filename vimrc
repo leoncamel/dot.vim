@@ -492,7 +492,11 @@ if has("gui_running")
         set columns=95 " perfect size for me
         "set guifont=Consolas:h10 " My favorite font
         "set guifont=Bitstream\ Vera\ Sans\ Mono\ 14
-        set guifont=DejaVu\ Sans\ Mono\ 14
+        if has('gui_macvim')
+            set guifont=Monaco:h14
+        else
+            set guifont=DejaVu\ Sans\ Mono\ 14
+        endif
         "set guifont=Monaco:h14
         set guioptions=ce 
         "              ||
@@ -515,7 +519,15 @@ if has("gui_running")
     " }
 
     " MacVim {
-        "set fuopt=maxvert,maxhorz " for macvim fullscreen
+        if has('gui_macvim')
+            set fuopt=maxvert,maxhorz " for macvim fullscreen
+        endif
+    " }
+
+    " windows {
+        if has('win32') || has('win64')
+            " blah blah blah
+        endif
     " }
 endif
 " }
