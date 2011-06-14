@@ -367,8 +367,8 @@
 
     " Pandoc Settings {
         au! Bufread,BufNewFile *.pdc set filetype=pdc
-        au! Bufread,BufNewFile *.md set filetype=pdc
-        au! Bufread,BufNewFile *.markdown set filetype=pdc
+        "au! Bufread,BufNewFile *.md set filetype=pdc
+        "au! Bufread,BufNewFile *.markdown set filetype=pdc
     " }
 
     " Thrift Settings {

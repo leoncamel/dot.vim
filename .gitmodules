@@ -34,3 +34,6 @@
 [submodule "bundle/ack.vim.git"]
 	path = bundle/ack.vim.git
 	url = git://github.com/mileszs/ack.vim.git
+[submodule "bundle/vim-markdown.git"]
+	path = bundle/vim-markdown.git
+	url = git://github.com/plasticboy/vim-markdown.git
