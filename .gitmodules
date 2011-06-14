@@ -1,0 +1,36 @@
+[submodule "bundle/vim-pathogen"]
+	path = bundle/vim-pathogen
+	url = git://github.com/tpope/vim-pathogen.git
+[submodule "bundle/tComment.git"]
+	path = bundle/tComment.git
+	url = git://github.com/vim-scripts/tComment.git
+[submodule "bundle/snipmate.git"]
+	path = bundle/snipmate.git
+	url = git://github.com/msanders/snipmate.vim.git
+[submodule "bundle/nerdtree.git"]
+	path = bundle/nerdtree.git
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-fugitive.git"]
+	path = bundle/vim-fugitive.git
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/tabular.git"]
+	path = bundle/tabular.git
+	url = git://github.com/godlygeek/tabular.git
+[submodule "bundle/vim-r-plugin.git"]
+	path = bundle/vim-r-plugin.git
+	url = git://github.com/vim-scripts/Vim-R-plugin.git
+[submodule "bundle/netrw.vim.git"]
+	path = bundle/netrw.vim.git
+	url = git://github.com/vim-scripts/netrw.vim.git
+[submodule "bundle/vim-vividchalk.git"]
+	path = bundle/vim-vividchalk.git
+	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "bundle/DirDiff.vim.git"]
+	path = bundle/DirDiff.vim.git
+	url = git://github.com/vim-scripts/DirDiff.vim.git
+[submodule "bundle/screen.git"]
+	path = bundle/screen.git
+	url = git://github.com/ervandew/screen.git
+[submodule "bundle/ack.vim.git"]
+	path = bundle/ack.vim.git
+	url = git://github.com/mileszs/ack.vim.git
