@@ -49,3 +49,6 @@
 [submodule "bundle/zencoding-vim.git"]
 	path = bundle/zencoding-vim.git
 	url = git://github.com/mattn/zencoding-vim.git
+[submodule "bundle/vcscommand.git"]
+	path = bundle/vcscommand.git
+	url = git://repo.or.cz/vcscommand.git
