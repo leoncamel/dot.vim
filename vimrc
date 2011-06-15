@@ -1,6 +1,6 @@
 "
 " Author       :	Xiaolin Zhang
-" Last Modified:	2011-06-01
+" Last Modified:	2011-06-16
 "
 " To use it, copy it to
 "     for Unix and OS/2:  ~/.vimrc

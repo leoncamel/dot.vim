@@ -23,4 +23,5 @@ TODO
 ----
 
     1. config the "csindent.vim" plugin
+    2. snipmate.git : switch official snipmate.git repo to git://github.com/MarcWeber/snipmate.vim.git
 

@@ -4,9 +4,6 @@
 [submodule "bundle/tComment.git"]
 	path = bundle/tComment.git
 	url = git://github.com/vim-scripts/tComment.git
-[submodule "bundle/snipmate.git"]
-	path = bundle/snipmate.git
-	url = git://github.com/msanders/snipmate.vim.git
 [submodule "bundle/nerdtree.git"]
 	path = bundle/nerdtree.git
 	url = git://github.com/scrooloose/nerdtree.git
@@ -58,3 +55,12 @@
 [submodule "bundle/command-t.git"]
 	path = bundle/command-t.git
 	url = git://git.wincent.com/command-t.git
+[submodule "bundle/snipmate.vim.git"]
+	path = bundle/snipmate.vim.git
+	url = git://github.com/MarcWeber/snipmate.vim.git
+[submodule "bundle/tlib_vim.git"]
+	path = bundle/tlib_vim.git
+	url = git://github.com/tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mv-utils.git"]
+	path = bundle/vim-addon-mv-utils.git
+	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
