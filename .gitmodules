@@ -52,3 +52,9 @@
 [submodule "bundle/vcscommand.git"]
 	path = bundle/vcscommand.git
 	url = git://repo.or.cz/vcscommand.git
+[submodule "bundle/vim-easymotion.git"]
+	path = bundle/vim-easymotion.git
+	url = git://github.com/Lokaltog/vim-easymotion.git
+[submodule "bundle/command-t.git"]
+	path = bundle/command-t.git
+	url = git://git.wincent.com/command-t.git

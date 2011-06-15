@@ -410,6 +410,17 @@
         " TODO: test this for large file or binary file
         "let g:fencview_autodetect = 1
     " }
+
+    " command-t Settings {
+        nmap <silent> <Leader>t :CommandT<CR>
+        nmap <silent> <Leader>b :CommandTBuffer<CR>
+
+        " In case of MacVim: map to Command-T keybinding
+        " if has("gui_macvim")
+        "     macmenu &File.New\ Tab key=<nop>
+        "     map <D-t> :CommandT<CR>
+        " endif
+    " }
 " }
 
 " Mappings {
