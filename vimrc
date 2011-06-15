@@ -390,7 +390,11 @@
     " }
 
     " Ack Settings {
-        let g:ackprg="ack-grep -H --nocolor --nogroup --column"
+        if has('gui_macvim')
+            let g:ackprg="ack -H --nocolor --nogroup --column"
+        else
+            let g:ackprg="ack-grep -H --nocolor --nogroup --column"
+        endif
         vmap ,mc !boxes -d c-cmt<CR>
         nmap ,mc !!boxes -d c-cmt<CR>
         vmap ,xc !boxes -d c-cmt -r<CR>
@@ -499,7 +503,11 @@ if has("gui_running")
         " colorscheme wombat256
         colorscheme desert
 
-        set columns=95 " perfect size for me
+        if has('gui_macvim')
+            set columns=135 " perfect size for me
+        else
+            set columns=95 " perfect size for me
+        endif
         "set guifont=Consolas:h10 " My favorite font
         "set guifont=Bitstream\ Vera\ Sans\ Mono\ 14
         if has('gui_macvim')
