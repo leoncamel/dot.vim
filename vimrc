@@ -21,6 +21,10 @@
     " 2.
 " }
 
+" Pathogen : prior to 'fileype plugin indent on' {
+    call pathogen#infect()
+" }
+
 " Basics {
     " When started as "evim", evim.vim will already have done these
     " settings.
@@ -191,10 +195,6 @@
     let b:match_ignorecase = 1 " case is stupid
     let perl_extended_vars=1 " highlight advanced perl vars
                               " inside strings
-
-    " pathogen {
-        call pathogen#infect()
-    " }
 
     " c-support {
 
@@ -506,13 +506,12 @@
 " GUI Settings {
 if has("gui_running")
     " Basics {
-        "colorscheme desert   " my color scheme (only works in GUI)
+        colorscheme desert   " my color scheme (only works in GUI)
         " colorscheme pablo
         " colorscheme darkblue
         " colorscheme inkpot
         " colorscheme midnight2
         " colorscheme wombat256
-        colorscheme desert
 
         if has('gui_macvim')
             set columns=135 " perfect size for me
@@ -524,7 +523,8 @@ if has("gui_running")
         if has('gui_macvim')
             set guifont=Monaco:h14
         else
-            set guifont=DejaVu\ Sans\ Mono\ 14
+            set guifont=DejaVu\ Sans\ Mono\ 12
+            "set guifont=Inconsolata\ 12
         endif
         "set guifont=Monaco:h14
         set guioptions=ce 

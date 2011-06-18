@@ -64,3 +64,6 @@
 [submodule "bundle/vim-addon-mv-utils.git"]
 	path = bundle/vim-addon-mv-utils.git
 	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-align.git"]
+	path = bundle/vim-align.git
+	url = git://github.com/pix/vim-align.git
