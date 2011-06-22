@@ -152,6 +152,9 @@
     " }
     set statusline=%<%f%<%{FileTime()}%<%h%m%r%=%-20.(line=%03l,col=%02c%V,totlin=%L%)\%h%m%r%=%-30(,BfNm=%n%Y%)\%P\*%=%{CurTime()}
     set rulerformat=%15(%c%V\ %p%%%)
+
+    " diff options
+    set diffopt=filler,vertical
 " }
 
 " Text Formatting/Layout {
@@ -506,12 +509,13 @@
 " GUI Settings {
 if has("gui_running")
     " Basics {
-        colorscheme desert   " my color scheme (only works in GUI)
+        " colorscheme desert   " my color scheme (only works in GUI)
         " colorscheme pablo
         " colorscheme darkblue
         " colorscheme inkpot
         " colorscheme midnight2
         " colorscheme wombat256
+        colorscheme koehler
 
         if has('gui_macvim')
             set columns=135 " perfect size for me
