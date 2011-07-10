@@ -67,3 +67,6 @@
 [submodule "bundle/vim-align.git"]
 	path = bundle/vim-align.git
 	url = git://github.com/pix/vim-align.git
+[submodule "bundle/vim-coffee-script.git"]
+	path = bundle/vim-coffee-script.git
+	url = git://github.com/kchmck/vim-coffee-script.git

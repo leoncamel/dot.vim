@@ -1,24 +1,15 @@
 "
-" Author       :	Xiaolin Zhang
-" Last Modified:	2011-06-16
+" Author       :	Leon Zhang
+" Last Modified:	2011-06-24
 "
-" To use it, copy it to
-"     for Unix and OS/2:  ~/.vimrc
-"	      for Amiga:  s:.vimrc
-"  for MS-DOS and Win32:  $VIM\_vimrc
-"	    for OpenVMS:  sys$login:.vimrc
-"
-" Originally from : http://www.vi-improved.org/vimrc.php
+" Base on : http://www.vi-improved.org/vimrc.php
 "
 
 " Notes {
-    " 1. For the first Time, you should create the following two directory
-    "   $ mkdir -p ~/.vim/tmp/
-    "   $ mkdir -p ~/.vim/backup/
-    "   As suggested in IRC channel, you can add the following line: 
-    "call mkdir(expand('~/.vim/backup'), 'p', '0755')
-    "   But, it seems very ugly.
-    " 2.
+    " 1. Install:
+    "     $ git clone
+    "     $ ln -s .vim
+    "     $ ln -s .vimrc
 " }
 
 " Pathogen : prior to 'fileype plugin indent on' {
