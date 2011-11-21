@@ -19,6 +19,12 @@ Install
     ruby extconf.rb
     make
 
+Add submodule
+-------------
+    1. for example:
+
+    git submodule add git://github.com/xxx/your-submodule.git bundle/your-submodule-path.git
+
 TODO
 ----
 
