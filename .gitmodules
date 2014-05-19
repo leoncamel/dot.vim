@@ -79,3 +79,15 @@
 [submodule "bundle/fencview.git"]
 	path = bundle/fencview.git
 	url = https://github.com/mbbill/fencview.git
+[submodule "bundle/ctrlp.vim.git"]
+	path = bundle/ctrlp.vim.git
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "bundle/vim-ansible-yaml.git"]
+	path = bundle/vim-ansible-yaml.git
+	url = https://github.com/chase/vim-ansible-yaml.git
+[submodule "bundle/vim-powerline.git"]
+	path = bundle/vim-powerline.git
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/VimClojure.git"]
+	path = bundle/VimClojure.git
+	url = https://github.com/vim-scripts/VimClojure.git
