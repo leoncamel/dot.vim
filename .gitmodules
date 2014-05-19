@@ -76,3 +76,6 @@
 [submodule "bundle/snipmate.vim.git"]
 	path = bundle/snipmate.vim.git
 	url = https://github.com/garbas/vim-snipmate.git
+[submodule "bundle/fencview.git"]
+	path = bundle/fencview.git
+	url = https://github.com/mbbill/fencview.git
