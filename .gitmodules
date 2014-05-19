@@ -37,9 +37,6 @@
 [submodule "bundle/csindent.vim.git"]
 	path = bundle/csindent.vim.git
 	url = https://github.com/vim-scripts/csindent.vim.git
-[submodule "bundle/FencView.vim.git"]
-	path = bundle/FencView.vim.git
-	url = https://github.com/vim-scripts/FencView.vim.git
 [submodule "bundle/Mark.git"]
 	path = bundle/Mark.git
 	url = https://github.com/vim-scripts/Mark--Karkat.git
@@ -55,9 +52,6 @@
 [submodule "bundle/command-t.git"]
 	path = bundle/command-t.git
 	url = https://github.com/wincent/Command-T.git
-[submodule "bundle/snipmate.vim.git"]
-	path = bundle/snipmate.vim.git
-	url = https://github.com/MarcWeber/snipmate.vim.git
 [submodule "bundle/tlib_vim.git"]
 	path = bundle/tlib_vim.git
 	url = https://github.com/tomtom/tlib_vim.git
