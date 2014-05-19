@@ -1,81 +1,81 @@
 [submodule "bundle/vim-pathogen"]
 	path = bundle/vim-pathogen
-	url = git://github.com/tpope/vim-pathogen.git
+	url = https://github.com/tpope/vim-pathogen.git
 [submodule "bundle/tComment.git"]
 	path = bundle/tComment.git
-	url = git://github.com/vim-scripts/tComment.git
+	url = https://github.com/vim-scripts/tComment.git
 [submodule "bundle/nerdtree.git"]
 	path = bundle/nerdtree.git
-	url = git://github.com/scrooloose/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/vim-fugitive.git"]
 	path = bundle/vim-fugitive.git
-	url = git://github.com/tpope/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/tabular.git"]
 	path = bundle/tabular.git
-	url = git://github.com/godlygeek/tabular.git
+	url = https://github.com/godlygeek/tabular.git
 [submodule "bundle/vim-r-plugin.git"]
 	path = bundle/vim-r-plugin.git
-	url = git://github.com/vim-scripts/Vim-R-plugin.git
+	url = https://github.com/vim-scripts/Vim-R-plugin.git
 [submodule "bundle/netrw.vim.git"]
 	path = bundle/netrw.vim.git
-	url = git://github.com/vim-scripts/netrw.vim.git
+	url = https://github.com/vim-scripts/netrw.vim.git
 [submodule "bundle/vim-vividchalk.git"]
 	path = bundle/vim-vividchalk.git
-	url = git://github.com/tpope/vim-vividchalk.git
+	url = https://github.com/tpope/vim-vividchalk.git
 [submodule "bundle/DirDiff.vim.git"]
 	path = bundle/DirDiff.vim.git
-	url = git://github.com/vim-scripts/DirDiff.vim.git
+	url = https://github.com/vim-scripts/DirDiff.vim.git
 [submodule "bundle/screen.git"]
 	path = bundle/screen.git
-	url = git://github.com/ervandew/screen.git
+	url = https://github.com/ervandew/screen.git
 [submodule "bundle/ack.vim.git"]
 	path = bundle/ack.vim.git
-	url = git://github.com/mileszs/ack.vim.git
+	url = https://github.com/mileszs/ack.vim.git
 [submodule "bundle/vim-markdown.git"]
 	path = bundle/vim-markdown.git
-	url = git://github.com/plasticboy/vim-markdown.git
+	url = https://github.com/plasticboy/vim-markdown.git
 [submodule "bundle/csindent.vim.git"]
 	path = bundle/csindent.vim.git
-	url = git://github.com/vim-scripts/csindent.vim.git
+	url = https://github.com/vim-scripts/csindent.vim.git
 [submodule "bundle/FencView.vim.git"]
 	path = bundle/FencView.vim.git
-	url = git://github.com/vim-scripts/FencView.vim.git
+	url = https://github.com/vim-scripts/FencView.vim.git
 [submodule "bundle/Mark.git"]
 	path = bundle/Mark.git
-	url = git://github.com/vim-scripts/Mark--Karkat.git
+	url = https://github.com/vim-scripts/Mark--Karkat.git
 [submodule "bundle/zencoding-vim.git"]
 	path = bundle/zencoding-vim.git
-	url = git://github.com/mattn/zencoding-vim.git
+	url = https://github.com/mattn/zencoding-vim.git
 [submodule "bundle/vcscommand.git"]
 	path = bundle/vcscommand.git
-	url = git://repo.or.cz/vcscommand.git
+	url = https://github.com/vim-scripts/vcscommand.vim.git
 [submodule "bundle/vim-easymotion.git"]
 	path = bundle/vim-easymotion.git
-	url = git://github.com/Lokaltog/vim-easymotion.git
+	url = https://github.com/Lokaltog/vim-easymotion.git
 [submodule "bundle/command-t.git"]
 	path = bundle/command-t.git
-	url = git://git.wincent.com/command-t.git
+	url = https://git.wincent.com/command-t.git
 [submodule "bundle/snipmate.vim.git"]
 	path = bundle/snipmate.vim.git
-	url = git://github.com/MarcWeber/snipmate.vim.git
+	url = https://github.com/MarcWeber/snipmate.vim.git
 [submodule "bundle/tlib_vim.git"]
 	path = bundle/tlib_vim.git
-	url = git://github.com/tomtom/tlib_vim.git
+	url = https://github.com/tomtom/tlib_vim.git
 [submodule "bundle/vim-addon-mv-utils.git"]
 	path = bundle/vim-addon-mv-utils.git
-	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
 [submodule "bundle/vim-align.git"]
 	path = bundle/vim-align.git
-	url = git://github.com/pix/vim-align.git
+	url = https://github.com/pix/vim-align.git
 [submodule "bundle/vim-coffee-script.git"]
 	path = bundle/vim-coffee-script.git
-	url = git://github.com/kchmck/vim-coffee-script.git
+	url = https://github.com/kchmck/vim-coffee-script.git
 [submodule "bundle/fsharp.git"]
 	path = bundle/fsharp.git
-	url = git://github.com/kongo2002/fsharp-vim.git
+	url = https://github.com/kongo2002/fsharp-vim.git
 [submodule "bundle/csharp.vim.git"]
 	path = bundle/csharp.vim.git
-	url = git://github.com/vim-scripts/csharp.vim.git
+	url = https://github.com/vim-scripts/csharp.vim.git
 [submodule "bundle/vim-colors-solarized.git"]
 	path = bundle/vim-colors-solarized.git
-	url = git://github.com/altercation/vim-colors-solarized.git
+	url = https://github.com/altercation/vim-colors-solarized.git
