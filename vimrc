@@ -5,13 +5,6 @@
 " Base on : http://www.vi-improved.org/vimrc.php
 "
 
-" Notes {
-    " 1. Install:
-    "     $ git clone
-    "     $ ln -s .vim
-    "     $ ln -s .vimrc
-" }
-
 " Pathogen : prior to 'fileype plugin indent on' {
     call pathogen#infect()
 " }
