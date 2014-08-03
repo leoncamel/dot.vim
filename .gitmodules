@@ -88,3 +88,6 @@
 [submodule "bundle/VimClojure.git"]
 	path = bundle/VimClojure.git
 	url = https://github.com/vim-scripts/VimClojure.git
+[submodule "bundle/emmet-vim.git"]
+	path = bundle/emmet-vim.git
+	url = https://github.com/mattn/emmet-vim.git
