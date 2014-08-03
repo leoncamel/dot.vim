@@ -40,9 +40,6 @@
 [submodule "bundle/Mark.git"]
 	path = bundle/Mark.git
 	url = https://github.com/vim-scripts/Mark--Karkat.git
-[submodule "bundle/zencoding-vim.git"]
-	path = bundle/zencoding-vim.git
-	url = https://github.com/mattn/zencoding-vim.git
 [submodule "bundle/vcscommand.git"]
 	path = bundle/vcscommand.git
 	url = https://github.com/vim-scripts/vcscommand.vim.git
