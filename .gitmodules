@@ -91,3 +91,6 @@
 [submodule "bundle/emmet-vim.git"]
 	path = bundle/emmet-vim.git
 	url = https://github.com/mattn/emmet-vim.git
+[submodule "bundle/vim-less.git"]
+	path = bundle/vim-less.git
+	url = https://github.com/groenewege/vim-less.git
